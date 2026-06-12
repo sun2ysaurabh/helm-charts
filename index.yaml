@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   ssaurabh-nginx:
   - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2026-06-12T16:20:50.170101+05:30"
+    appVersion: 0.1.1
+    created: "2026-06-12T16:31:19.153568+05:30"
     description: A Helm chart for deploying Nginx by ssaurabh in k8s
-    digest: 3ad11ea28498b898e8cc9b034a5ac7885ee76032ad173698d072ae11d4c2ccc7
+    digest: 7abf37c22a84adeab27725e8cee7d3a0f1a2d3bd5a018ff4c68eb7f00cf886b1
     name: ssaurabh-nginx
     type: application
     urls:
     - ssaurabh-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-12T16:20:50.169614+05:30"
+generated: "2026-06-12T16:31:19.15305+05:30"
