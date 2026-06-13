@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  ssaurabh-nginx:
+  todo-app:
   - apiVersion: v2
-    appVersion: 0.1.1
-    created: "2026-06-12T16:31:19.153568+05:30"
-    description: A Helm chart for deploying Nginx by ssaurabh in k8s
-    digest: 7abf37c22a84adeab27725e8cee7d3a0f1a2d3bd5a018ff4c68eb7f00cf886b1
-    name: ssaurabh-nginx
+    appVersion: 1.0.0
+    created: "2026-06-13T18:22:01.077607+05:30"
+    description: A Helm chart for deploying TODO APP in kubernetes
+    digest: fab4087f36ac879e8d8e3163efa6b204937cd351f97e473554810152d46ed7c6
+    name: todo-app
     type: application
     urls:
-    - ssaurabh-nginx-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-06-12T16:31:19.15305+05:30"
+    - todo-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-06-13T18:22:01.077124+05:30"
