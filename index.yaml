@@ -3,12 +3,12 @@ entries:
   todo-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-13T18:22:01.077607+05:30"
+    created: "2026-06-13T18:32:53.301659+05:30"
     description: A Helm chart for deploying TODO APP in kubernetes
-    digest: fab4087f36ac879e8d8e3163efa6b204937cd351f97e473554810152d46ed7c6
+    digest: 6209b92a9a3b4e5fc9011f64d20358487d6ec004ef60f1d5b959d978911ac764
     name: todo-app
     type: application
     urls:
     - todo-app-1.0.0.tgz
     version: 1.0.0
-generated: "2026-06-13T18:22:01.077124+05:30"
+generated: "2026-06-13T18:32:53.301103+05:30"
